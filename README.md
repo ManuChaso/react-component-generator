@@ -7,7 +7,7 @@ RCG is a command-line utility for quickly generating React components with assoc
 Ensure you have Node.js installed, and then run the following command to install CRC globally:
 
 ```bash
-npm install -g react-component-generator
+npm install -g rcg-mc
 ```
 
 ## Usage
