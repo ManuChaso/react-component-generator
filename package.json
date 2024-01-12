@@ -19,6 +19,6 @@
     "fs-extra": "^11.2.0"
   },
   "bin": {
-    "rcg": "./scripts/createComponent.js"
+    "rcg": "scripts/createComponent.js"
   }
 }
