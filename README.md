@@ -24,7 +24,7 @@ rcg Button
 ```
 This will generate the following files:
 
-```css
+```bash
 /src
   /components
     /Button
