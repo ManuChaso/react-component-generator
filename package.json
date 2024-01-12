@@ -1,0 +1,24 @@
+{
+  "name": "rcg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./scripts/createComponent.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "generator"
+  ],
+  "author": "Manu Chaso",
+  "license": "MIT",
+  "dependencies": {
+    "edit-json-file": "^1.8.0",
+    "fs-extra": "^11.2.0"
+  },
+  "bin": {
+    "rcg": "./scripts/createComponent.js"
+  }
+}
