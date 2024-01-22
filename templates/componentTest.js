@@ -6,7 +6,7 @@ import ${componentName} from './${componentName}';
 
 test('renders component correctly', () => {
   const { getByText } = render(<${componentName} />);
-  const componentElement = getByText(`Componente de ${componentName}`);
+  const componentElement = getByText(`${componentName} Component`);
   expect(componentElement).toBeInTheDocument();
 });
 
